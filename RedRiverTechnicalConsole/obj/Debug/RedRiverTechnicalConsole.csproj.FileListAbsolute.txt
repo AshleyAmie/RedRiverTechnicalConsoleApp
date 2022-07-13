@@ -1,0 +1,6 @@
+C:\Users\johan\source\repos\RedRiverTechnicalConsole\RedRiverTechnicalConsole\bin\Debug\RedRiverTechnicalConsole.exe.config
+C:\Users\johan\source\repos\RedRiverTechnicalConsole\RedRiverTechnicalConsole\bin\Debug\RedRiverTechnicalConsole.exe
+C:\Users\johan\source\repos\RedRiverTechnicalConsole\RedRiverTechnicalConsole\bin\Debug\RedRiverTechnicalConsole.pdb
+C:\Users\johan\source\repos\RedRiverTechnicalConsole\RedRiverTechnicalConsole\obj\Debug\RedRiverTechnicalConsole.csproj.CoreCompileInputs.cache
+C:\Users\johan\source\repos\RedRiverTechnicalConsole\RedRiverTechnicalConsole\obj\Debug\RedRiverTechnicalConsole.exe
+C:\Users\johan\source\repos\RedRiverTechnicalConsole\RedRiverTechnicalConsole\obj\Debug\RedRiverTechnicalConsole.pdb
